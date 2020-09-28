@@ -12,7 +12,7 @@ Here's a sample link outside a code block:
 
 Here's a sample in ``this`` format: 
 
-```SKLearn document <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html>`_``
+``SKLearn document <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html>`_`
 .. code-block:: python
 
 	from wordcount import load_word_counts
