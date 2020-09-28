@@ -13,7 +13,7 @@ Here's a sample link outside a code block:
 .. code-block:: python
 
 	from wordcount import load_word_counts
-	from sklearn.model_selection import `StratifiedKFold<https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html>_`
+	`from sklearn.model_selection import StratifiedKFold <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html>`_ 
 
 
 Zipf's law
