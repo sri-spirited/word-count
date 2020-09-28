@@ -10,6 +10,9 @@ The `zipf` module first imports the dependencies from `wordcounts.py`.
 Here's a sample link outside a code block: 
 `SKLearn document <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html>`_
 
+Here's a sample in ``this`` format: 
+
+```SKLearn document <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html>`_``
 .. code-block:: python
 
 	from wordcount import load_word_counts
