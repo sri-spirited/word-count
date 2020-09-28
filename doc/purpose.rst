@@ -19,7 +19,7 @@ Here's a sample in ``this`` format:
 	`from sklearn.model_selection import StratifiedKFold <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html>`_ 
 
 
-Zipf's law
+Zipf's lawS
 ----------
 
 Write me ...
