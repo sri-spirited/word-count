@@ -24,3 +24,7 @@ Zipf's lawS
 
 Here's a keyboard formatting:
 :kbd:`Ctrl` + :kbd:`S`
+
+File: :file:`sometext`
+
+Verbatim: ``sometext``
