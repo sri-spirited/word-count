@@ -32,6 +32,8 @@ Verbatim: ``sometext``
 Python domain directives
 ------------------------
 
-:py:meth:`Python method`
+A python method: :py:meth:`Python method`
 
 A command: :command:`conda init`
+
+A python class: :py:class:`Python class`
