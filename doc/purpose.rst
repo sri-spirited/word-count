@@ -33,3 +33,5 @@ Python domain directives
 ------------------------
 
 :py:meth:`Python method`
+
+A command: :command:`conda init`
