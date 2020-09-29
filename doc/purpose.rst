@@ -28,3 +28,8 @@ Here's a keyboard formatting:
 File: :file:`sometext`
 
 Verbatim: ``sometext``
+
+Python domain directives
+------------------------
+
+:py:meth:`:py:math | python method`
