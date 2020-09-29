@@ -22,4 +22,5 @@ Here's a sample in ``this`` format:
 Zipf's lawS
 ----------
 
-Write me ...
+Here's a keyboard formatting:
+:kbd:`Ctrl` + :kbd:`S`
