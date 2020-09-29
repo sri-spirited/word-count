@@ -32,4 +32,4 @@ Verbatim: ``sometext``
 Python domain directives
 ------------------------
 
-:py:meth:`:py:math | python method`
+:py:meth:`Python method`
